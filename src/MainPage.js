@@ -17,6 +17,7 @@ class MainPage extends React.Component{
                 <Nav.Link>Home</Nav.Link>
                 <Nav.Link>About</Nav.Link>
                 <Nav.Link>Team</Nav.Link>
+                <Nav.Link>Blog</Nav.Link>
                 <Nav.Link>Contact</Nav.Link>
                 <Nav.Link href="/posts">Posts</Nav.Link>
               </Nav>
