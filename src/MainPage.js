@@ -7,9 +7,7 @@ class MainPage extends React.Component{
       this.state = {}
     }
 
-    render(){  
-      utils.setRoles();
-        
+    render(){          
         return(
           <div>
             <Navbar bg="light" expand="lg">
